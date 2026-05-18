@@ -1,2 +1,7 @@
-# demo-mmorelli-propiedades
-Demo web para MMorelli Propiedades — diseñada por eterlab.
+# MMorelli Propiedades
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
